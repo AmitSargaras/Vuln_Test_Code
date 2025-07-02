@@ -1,0 +1,14 @@
+vuln\UnvalidatedRedirectExample.class
+vuln\BrokenAuthExample.class
+vuln\XSSExample.class
+vuln\SSRFExample.class
+vuln\DirectoryListingExample.class
+vuln\CommandInjectionExample.class
+vuln\InsecureHashExample.class
+vuln\WeakSSLConfigExample.class
+vuln\InsecureDeserializationExample.class
+vuln\SecurityMisconfigExample.class
+vuln\PathTraversalExample.class
+vuln\SQLInjectionExample.class
+vuln\OpenRedirectExample.class
+vuln\SensitiveDataExposureExample.class
